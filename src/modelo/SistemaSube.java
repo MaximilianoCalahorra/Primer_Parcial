@@ -8,9 +8,9 @@ import java.time.LocalDateTime;
 public class SistemaSube 
 {
 	///Atributos:
-	List<Usuario> usuarios;
-	List<Tarjeta> tarjetas;
-	List<Viaje> viajes;
+	private List<Usuario> usuarios;
+	private List<Tarjeta> tarjetas;
+	private List<Viaje> viajes;
 	
 	///Constructor:
 	public SistemaSube() 
@@ -119,7 +119,7 @@ public class SistemaSube
 		{
 			throw new Exception("Error! El usuario con DNI #" + dni + " ya existe en la lista de usuarios.\n");
 		}
-		int idUsuarioNuevo = 1; //El primer usuario será de ID 1.
+		int idUsuarioNuevo = 1; //El primer usuario serÃ¡ de ID 1.
 		if (usuarios.size() > 0) 
 		{
 			int tamanio = usuarios.size();
