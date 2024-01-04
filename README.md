@@ -6,7 +6,7 @@
 *Lamentablemente no cuento con las consignas detalladas de ese parcial, pero a partir de mi resolución voy a hacer una reconstrucción del modelo provisto, los casos de uso y test solicitados*.
 
 **Modelo**:
-![modelo](https://github.com/MaximilianoCalahorra/Primer_Parcial/assets/152804837/952fbd89-6846-404b-b06e-4d0d47812265)
+![modelo](https://github.com/MaximilianoCalahorra/Primer_Parcial/assets/152804837/7694adca-5446-4155-9a49-0bcb1a552dc2)
 
 **Casos de uso**:
 - #1: + traerUsuario(long dni): Usuario 
