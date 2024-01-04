@@ -1,5 +1,5 @@
 # Descripción del programa
-**Consiste en mi resolución al primer parcial de la materia de Orientación a Objetos I de la carrera de Sistemas de la UNLa**.
+**Consiste en mi resolución del primer parcial de la materia de Orientación a Objetos I de la carrera de Sistemas de la UNLa**.
 
 **Está desarrollado completamente en Java mediante el paradigma de la POO, aplicando conceptos tales como clases, atributos, métodos, polimorfismo, reutilización de código y manejo de excepciones y de fechas y horas**.
 
