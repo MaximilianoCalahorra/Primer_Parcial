@@ -37,7 +37,7 @@
 - #5: Agregar los siguientes viajes e imprimir la lista:
   - Viaje = \[tarjeta = \[codigo = "1234567890", usuario = \[dni = 44444444, nombre = "Nombre 1", apellido = "Apellido 1", tieneDescuento = false], linea = "Linea 1", medio = "Medio 1", fechaHoraViaje = 2023-09-01T10:00, precio = 50.0]
   - Viaje = \[tarjeta = \[codigo = "1234567890", usuario = \[dni = 44444444, nombre = "Nombre 1", apellido = "Apellido 1", tieneDescuento = false], linea = "Linea 2", medio = "Medio 2", fechaHoraViaje = 2023-09-01T10:30, precio = 50.0]
-  - Viaje = \[tarjeta = \[codigo = "1234567890", usuario = \[dni = 44444444, nombre = "Nombre 1", apellido = "Apellido 1", tieneDescuento = false], linea = "Linea 3", medio = "Medio 3", fechaHoraViaje = 2023-09-02T9:00, precio = 100.0]
+  - Viaje = \[tarjeta = \[codigo = "1234567890", usuario = \[dni = 44444444, nombre = "Nombre 1", apellido = "Apellido 1", tieneDescuento = false], linea = "Linea 3", medio = "Medio 3", fechaHoraViaje = 2023-09-02T09:00, precio = 100.0]
   - Viaje = \[tarjeta = \[codigo = "1234567891", usuario = \[dni = 55555555, nombre = "Nombre 2", apellido = "Apellido 2", tieneDescuento = false], linea = "Linea 1", medio = "Medio 1", fechaHoraViaje = 2023-09-01T10:00, precio = 60.0]
   - Viaje = \[tarjeta = \[codigo = "1234567891", usuario = \[dni = 55555555, nombre = "Nombre 2", apellido = "Apellido 2", tieneDescuento = false], linea = "Linea 2", medio = "Medio 2", fechaHoraViaje = 2023-09-02T15:00, precio = 60.0]
   - Viaje = \[tarjeta = \[codigo = "1234567891", usuario = \[dni = 55555555, nombre = "Nombre 2", apellido = "Apellido 2", tieneDescuento = false], linea = "Linea 3", medio = "Medio 3", fechaHoraViaje = 2023-09-03T22:00, precio = 60.0]
